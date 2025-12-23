@@ -1,4 +1,4 @@
-noi khong thuong la noi doi.
+
 ![Image](https://github.com/user-attachments/assets/f3032e94-0b45-4112-bf54-93a37e54d210
 <!--
 **en2qaws1/en2qaws1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
