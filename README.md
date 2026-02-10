@@ -1,5 +1,5 @@
 
-![Image](https://github.com/user-attachments/assets/a82d5ea7-ec28-4bd5-b5e5-92ba703154c2)
+https://pin.it/3t7boPPWY
 <!--
 **en2qaws1/en2qaws1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
